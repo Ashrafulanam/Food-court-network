@@ -34,3 +34,15 @@ h1 {
 .container-2 img {
   width: 54%;
 }
+#center {
+  text-align: center;
+}
+.final-area {
+  width: 10%;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-left: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+  border-left: 0;
+}
