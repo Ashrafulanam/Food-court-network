@@ -53,3 +53,9 @@ h1 {
 .final-area img {
   width: 100%;
 }
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 100%;
+}
