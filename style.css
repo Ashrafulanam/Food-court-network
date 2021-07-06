@@ -38,11 +38,16 @@ h1 {
   text-align: center;
 }
 .final-area {
-  width: 10%;
+  width: 30%;
+  height: 50%;
   margin-right: 5%;
-  margin-left: 5%;
+  margin-left: 2%;
   padding-left: 20px;
-  border-radius: 10px;
-  box-shadow: 10px 10px 40px gray;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px 10px gray;
   border-left: 0;
+  text-align: left;
+}
+.final-area img {
+  width: 100%;
 }
